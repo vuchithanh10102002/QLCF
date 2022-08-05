@@ -1,0 +1,33 @@
+E:\LapTrinhWindow\Tuhoc\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe.config
+E:\LapTrinhWindow\Tuhoc\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe
+E:\LapTrinhWindow\Tuhoc\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.pdb
+E:\LapTrinhWindow\Tuhoc\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.SuggestedBindingRedirects.cache
+E:\LapTrinhWindow\Tuhoc\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.FormMain.resources
+E:\LapTrinhWindow\Tuhoc\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Properties.Resources.resources
+E:\LapTrinhWindow\Tuhoc\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.GenerateResource.cache
+E:\LapTrinhWindow\Tuhoc\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+E:\LapTrinhWindow\Tuhoc\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.exe
+E:\LapTrinhWindow\Tuhoc\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.pdb
+E:\LapTrinhWindow\Tuhoc\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.AssemblyReference.cache
+C:\Users\Thang\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe.config
+C:\Users\Thang\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe
+C:\Users\Thang\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.pdb
+C:\Users\Thang\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.AssemblyReference.cache
+C:\Users\Thang\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thang\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.FormMain.resources
+C:\Users\Thang\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Properties.Resources.resources
+C:\Users\Thang\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.GenerateResource.cache
+C:\Users\Thang\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+C:\Users\Thang\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.exe
+C:\Users\Thang\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.pdb
+C:\CODE\LT WINDOWS\Bai thuc hanh nhom 7\QuanLyQuanCaPhe (1)\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe.config
+C:\CODE\LT WINDOWS\Bai thuc hanh nhom 7\QuanLyQuanCaPhe (1)\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe
+C:\CODE\LT WINDOWS\Bai thuc hanh nhom 7\QuanLyQuanCaPhe (1)\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.pdb
+C:\CODE\LT WINDOWS\Bai thuc hanh nhom 7\QuanLyQuanCaPhe (1)\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.AssemblyReference.cache
+C:\CODE\LT WINDOWS\Bai thuc hanh nhom 7\QuanLyQuanCaPhe (1)\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.SuggestedBindingRedirects.cache
+C:\CODE\LT WINDOWS\Bai thuc hanh nhom 7\QuanLyQuanCaPhe (1)\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.FormMain.resources
+C:\CODE\LT WINDOWS\Bai thuc hanh nhom 7\QuanLyQuanCaPhe (1)\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Properties.Resources.resources
+C:\CODE\LT WINDOWS\Bai thuc hanh nhom 7\QuanLyQuanCaPhe (1)\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.GenerateResource.cache
+C:\CODE\LT WINDOWS\Bai thuc hanh nhom 7\QuanLyQuanCaPhe (1)\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+C:\CODE\LT WINDOWS\Bai thuc hanh nhom 7\QuanLyQuanCaPhe (1)\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.exe
+C:\CODE\LT WINDOWS\Bai thuc hanh nhom 7\QuanLyQuanCaPhe (1)\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.pdb
